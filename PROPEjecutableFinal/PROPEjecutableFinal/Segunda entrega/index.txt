@@ -1,0 +1,9 @@
+**************************************************************************
+*Directori "src"
+**************************************************************************
+Este directorio contiene los paquetes de java que componen nuestro proyecto
+**************************************************************************
+
+Els fitxers index de cada directori indiquen la funcionalitat del mateix
+
+**************************************************************************

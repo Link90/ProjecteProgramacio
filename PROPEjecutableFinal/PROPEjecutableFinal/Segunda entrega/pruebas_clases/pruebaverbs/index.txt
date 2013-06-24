@@ -1,0 +1,18 @@
+**************************************************************************
+*Directori "pruebaverbs"
+**************************************************************************
+Este directorio contiene los Archivos java y un directotio con los archivos necesarios 
+para poder realizar la prueba de la clase Verbs 
+**************************************************************************
+
+MainVerbs ---> Es el main sobre el que se llaman a las funciones de Verbs para 
+probarlas de forma exaustiva
+
+Node ---> Contiene la estructura de un nodo del Trie y las operaciones para gestionar la clase
+
+Trie ---> Contiene la estructura de un Trie formado por Nodes y las operaciones para gestionar la clase
+
+Verbs ---> Contiene la estructura de un Verbs formado por Trie y las operaciones para gestionar la clase
+
+**************************************************************************
+Para mas informacion sobre las clases consultar el documento en la carpeta DOCS

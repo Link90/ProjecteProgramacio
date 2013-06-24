@@ -1,0 +1,11 @@
+**************************************************************************
+*Directori "EXE"
+**************************************************************************
+directorio de ejecutables
+**************************************************************************
+
+Prueba_clases contiene las clases de dominio para probarlas de forma independiente, ejecutando sus Main
+
+Ejecutables proyecto contiene la ejecución real del programa para probar todas sus funcionalidades en terminal. Ejecutar desde ./Main/Main
+
+**************************************************************************

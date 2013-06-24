@@ -1,0 +1,12 @@
+**************************************************************************
+*Directori "P_Ejemplo"
+**************************************************************************
+Este directorio contiene los Archivos java con las clases necesarias para probar la clase Ejemplo 
+**************************************************************************
+
+Main ---> Es el main sobre el que se llaman a las funciones de Ejemplo para 
+probarlas de forma exaustiva
+
+Ejemplo ---> Contiene la estructura de un ejemplo y las operaciones para gestionarlo
+**************************************************************************
+Para mas informacion sobre las clases consultar el documento en la carpeta DOCS

@@ -1,0 +1,16 @@
+**************************************************************************
+*Directori "Archivos_Preinstalados"
+**************************************************************************
+Este directorio contiene los Archivos txt de carga por defecto del proyecto
+**************************************************************************
+
+NounsWordNet ---> Contiene el diccionario de palabras correctas en ingles descargado de la web de PROP
+
+PairsNounVerb ---> Contiene el corpus de ejemplos correctos en ingles descargado de la web de PROP
+
+VerbsWordNet ---> Contiene verbos correctos en ingles descargado de la web de PROP
+
+VerbosIrregularesConjugados ---> Es un archivo generado por nosotros que contiene las formas conjugadas y el infinitivo de una lista de verbos irregulares
+
+
+**************************************************************************

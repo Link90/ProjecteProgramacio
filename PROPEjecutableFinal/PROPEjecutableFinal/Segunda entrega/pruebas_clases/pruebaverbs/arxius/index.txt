@@ -1,0 +1,12 @@
+**************************************************************************
+*Directori "arxius"
+**************************************************************************
+Este directorio contiene los Archivos txt de carga por defecto la prueba
+**************************************************************************
+
+VINF ---> Contiene verbos correctos en ingles descargado de la web de PROP
+
+VIRR---> Es un archivo generado por nosotros que contiene las formas conjugadas y el infinitivo de una lista de verbos irregulares
+
+
+**************************************************************************

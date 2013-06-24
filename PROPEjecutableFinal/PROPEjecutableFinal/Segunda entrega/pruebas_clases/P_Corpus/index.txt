@@ -1,0 +1,22 @@
+**************************************************************************
+*Directori "P_Corpus"
+**************************************************************************
+Este directorio contiene los Archivos java y un directotio con los archivos necesarios 
+para poder realizar la prueba de la clase Corpus
+**************************************************************************
+
+MainVerbs ---> Es el main sobre el que se llaman a las funciones de Corpus para 
+probarlas de forma exaustiva
+
+Corpus ---> Contiene la estructura del corpus de ejemplos y las operaciones para gestionar la clase
+
+Ejemplo ---> Contiene la estructura de un ejemplo y las operaciones para gestionarlo
+
+Controlador_Dominio ---> Se encarga de gestionar la entrada y salida con el resto de las clases
+
+Node ---> Contiene la estructura de un nodo del Trie y las operaciones para gestionar la clase
+
+Trie ---> Contiene la estructura de un Trie formado por Nodes y las operaciones para gestionar la clase
+
+**************************************************************************
+Para mas informacion sobre las clases consultar el documento en la carpeta DOCS

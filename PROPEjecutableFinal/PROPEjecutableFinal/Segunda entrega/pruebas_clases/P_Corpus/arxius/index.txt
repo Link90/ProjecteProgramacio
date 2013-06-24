@@ -1,0 +1,8 @@
+**************************************************************************
+*Directori "arxius"
+**************************************************************************
+Este directorio contiene los Archivos txt de carga por defecto la prueba
+**************************************************************************
+
+PairsNounVerb ---> Contiene el corpus de ejemplos correctos en ingles descargado de la web de PROP
+**************************************************************************
